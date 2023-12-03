@@ -86,3 +86,18 @@ body {
   font-size: 28px;
   margin-top: -6px;
 }
+
+.weather {
+  display: none;
+}
+/* .windImg,
+.humidityImg {
+  display: block;
+} */
+.error {
+  font-size: 30px;
+  margin-left: 10px;
+  align-items: left;
+  margin-top: 15px;
+  display: none;
+}
